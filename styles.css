@@ -49,15 +49,7 @@ table {
 
 }
 
-.column1 {
-    width: 10%;
-    
-}  
 
-.column2 {
-    width: 30%;
-    
-}  
 .nav ul{
     margin: 0;
 }
@@ -81,7 +73,7 @@ table {
 
 .main-nav {
     text-align: center;
-    font-size: 1.1em;
+    font-size: 1.em;
     border-bottom: 2px solid rgba(255, 25, 25, 0.233);
 }
 
@@ -149,4 +141,11 @@ table {
     margin-bottom: 25px;
 /*     margin-inline: 25px; */
    /*  border-bottom: 2px solid rgba(255, 25, 25, 0.233); */
+}
+
+.OrgIcon {
+    width: 100px;
+    max-width: 100%;
+    padding: 15%;
+    
 }
